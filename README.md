@@ -4,6 +4,10 @@ This is a test dashboard - feedback appreciated.
 
 The tables are manually ordered by stars so may become out of date :wink:
 
+There are separate tables for:
+* [Tools](#tools)
+* [Standards and Documentation Projects](#standards-and-documentation-projects)
+
 ## Tools
 
 | Repo | Status | Last Commit | Committers | Stars |
@@ -47,6 +51,12 @@ The tables are manually ordered by stars so may become out of date :wink:
 | [owasp winfim.net](https://github.com/OWASP/www-project-winfim.net) | [![Incubator](https://img.shields.io/badge/Incubator-blue.svg)](https://owasp.org/projects) | [![Last Commit](https://img.shields.io/github/last-commit/OWASP/www-project-winfim.net)](https://github.com/OWASP/www-project-winfim.net/commits) | [![Contributors](https://img.shields.io/github/contributors/OWASP/www-project-winfim.net)](https://github.com/OWASP/www-project-winfim.net/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/OWASP/www-project-winfim.net)](https://github.com/OWASP/www-project-winfim.net/stargazers) |
 | [owasp cornucopia](https://github.com/OWASP/cornucopia) | [![Lab](https://img.shields.io/badge/Lab-orange.svg)](https://owasp.org/projects) | [![Last Commit](https://img.shields.io/github/last-commit/OWASP/cornucopia)](https://github.com/OWASP/cornucopia/commits) | [![Contributors](https://img.shields.io/github/contributors/OWASP/cornucopia)](https://github.com/OWASP/cornucopia/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/OWASP/cornucopia)](https://github.com/OWASP/cornucopia/stargazers) |
 | [owasp g0rking](https://github.com/BlueVirtualNerds/G0rKing) | [![Incubator](https://img.shields.io/badge/Incubator-blue.svg)](https://owasp.org/projects) | [![Last Commit](https://img.shields.io/github/last-commit/BlueVirtualNerds/G0rKing)](https://github.com/BlueVirtualNerds/G0rKing/commits) | [![Contributors](https://img.shields.io/github/contributors/BlueVirtualNerds/G0rKing)](https://github.com/BlueVirtualNerds/G0rKing/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/BlueVirtualNerds/G0rKing)](https://github.com/BlueVirtualNerds/G0rKing/stargazers) |
+
+## Standards and Documentation projects
+
+| Repo | Status | Last Commit | Committers | Stars |
+| --- | --- | --- | --- | --- |
+| [owasp asvs](https://github.com/owasp/asvs) | [![Flagship](https://img.shields.io/badge/Flagship-brightgreen.svg)](https://owasp.org/projects) | [![Last Commit](https://img.shields.io/github/last-commit/owasp/asvs)](https://github.com/owasp/asvs/commits) | [![Contributors](https://img.shields.io/github/contributors/owasp/asvs)](https://github.com/owasp/asvs/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/owasp/asvs)](https://github.com/owasp/asvs/stargazers) |   
 
 Template line for GitHub projects (replace NAME, STATUS and USER_REPO):
 ```
