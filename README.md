@@ -5,8 +5,8 @@ This is a test dashboard - feedback appreciated.
 The tables are manually ordered by stars so may become out of date :wink:
 
 There are separate tables for:
-* Tools
-* Standards and Documentation Projects
+* [Tools](#tools)
+* [Standards and Documentation Projects](#standards-and-documentation-projects)
 
 ## Tools
 
