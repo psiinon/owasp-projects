@@ -4,7 +4,7 @@ This is a test dashboard - feedback appreciated.
 
 The tables are manually ordered by stars so may become out of date, particularly amongst the projects with the least number of stars :wink:
 
-There are sepae tables for:
+There are separate tables for:
 * [Tools](#tools)
 * [Standards and Documentation Projects](#standards-and-documentation-projects)
 
